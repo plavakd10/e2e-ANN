@@ -1,5 +1,7 @@
 # ANN Customer Chrun Classification
 
+Streamlit App - https://e2e-ann-churn-classification.streamlit.app/
+
 ## About Dataset
 The dataset used - 'Churn_Modelling.csv' contains mock customers data for a bank.
 The target column is 'Exited' - denoted if a customer left the bank services or not, based on a number of different features
@@ -28,7 +30,5 @@ Import the saved pickle files - for encoders, scalers and model itself
 
 Apply on input data and get prediction
 
-## Streamlit Web app
-Deployed in Streamlit
 
 
